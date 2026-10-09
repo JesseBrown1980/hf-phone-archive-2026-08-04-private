@@ -1,0 +1,13 @@
+* -text
+*.md text eol=lf
+*.txt text eol=lf
+*.tsv text eol=lf
+*.csv text eol=lf
+*.sha256 text eol=lf
+*.html text eol=lf
+*.sh text eol=lf
+.gitattributes text eol=lf
+*.jpg -text binary
+*.jpeg -text binary
+*.png -text binary
+*.wav -text binary
